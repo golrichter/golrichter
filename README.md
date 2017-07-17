@@ -1,5 +1,6 @@
 # golrichter
 <<<<<<< HEAD
+best project make a lot of fun (yepeee ... ouiiiiiiiii, trop cool !!!!)
 =======
 The best joke rating machine you ever see !
 Make a lot of fun (yepeee ...).
